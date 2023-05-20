@@ -25,6 +25,7 @@ IMPORTANT: Do not adjust the feedrate speed on the printer while it's printing a
 
 * Always, always, always, make sure you have enough filament left on the spool for the print you're doing. If you're doing a print with a lot of volume, and there's only a little filament left on the spool, don't chance it. This is similar to the first two rules in that if the filament ends, there will be filament sitting in a hot nozzle but not getting extruded. The filament will get too hot, oxidize, and clog your nozzle. You will hate your life the first time this happens, I promise. 
 
+* You can move the axes manually if you need to (Other than Z, just because you'd be pushing so hard, I'd avoid it.) but do so slowly due to DC voltages that would be generated.
 
 # Cura machine setup
 
