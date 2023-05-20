@@ -111,4 +111,6 @@ Save as new custom profile - Name it My IIIP - Fine or something. I think custom
 
 * It looks like there's a dumb bug with the printer firmware where speed settings get translated into much, much faster actual real-world speeds if you change the speed on the printer display while it's printing. Even if you then change it back to 100%, it will still be going much faster than it should be.
 
-        If you want to change the feedrate percentage, add M220 S90 or something like that in the start gcode. M220 = Override feedrate, S90 = Set it to 90% of what it should be. Remove this line if you ever put a decent FW on the printer.
+        If you want to actually change the feedrate percentage, add M220 S90 or something like that in the start gcode. 
+        
+        M220 = Override feedrate, S90 = Set it to 90%
