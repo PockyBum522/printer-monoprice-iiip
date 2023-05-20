@@ -101,7 +101,8 @@ Build Plate Adhesion >
 Special modes >
         Relative extrusion
 
-Z-seam align: Random
+Walls > 
+        Z-seam align: Random
 
 Save as new custom profile - Name it My IIIP - Fine or something. I think custom profiles might have metadata to label them in the dropdown as to what they're based off of, but I don't know 100% how that works.
 
