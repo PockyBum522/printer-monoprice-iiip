@@ -114,3 +114,5 @@ Save as new custom profile - Name it My IIIP - Fine or something. I think custom
         If you want to actually change the feedrate percentage, add M220 S90 or something like that in the start gcode. 
         
         M220 = Override feedrate, S90 = Set it to 90%
+
+* It looks like the fan duct kind of holds itself into place but can fall down a little. Once you find what position works best for printing, maybe give it a little tiny bit of glue to keep it from shifting. Or it may be fine. 
